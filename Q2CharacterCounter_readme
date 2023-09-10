@@ -1,0 +1,26 @@
+Jahkim Brown-Roopnarine
+ICS 3UO - A
+December 5, 2021
+v.1.3
+
+Unit 6 - Question 2: Character Counter
+Python 3.9
+
+This program will take the input of string and count how many times any character appears. It will run a game where an
+idiom may be typed with the characters displayed, and a user has to guess what the classic idiom is.
+
+Program Assumptions
+A user is required to have python version 3.6 or higher.
+
+Features of Program
+A simple idiom guess game and dictionary has been added to the program. This simple concept could be further expanded
+for betting, limited guessing, hint giving, etc. As well as a main menu for program navigation. Instructions have also
+been added.
+
+Restrictions
+There are no known restrictions
+
+Errors
+There are no known errors.
+
+No implementation details or additional files needed to run the program.
